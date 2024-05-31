@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "clusters_espaciales"
+  site-url: "https://andfonseca.github.io/clusters_espaciales"
+  description: "trabajo para utilizar una libreria de clusters espaciales"
+  repo-branch: main
+  repo-url: "https://github.com/andfonseca/clusters_espaciales"
